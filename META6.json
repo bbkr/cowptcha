@@ -1,0 +1,12 @@
+{
+    "perl": "6.c",
+    "name": "Cowptcha",
+    "version": "1.0.0",
+    "description": "Generate funny captcha.",
+    "authors" : [ "Paweł bbkr Pabian" ],
+    "provides": {
+        "Cowptcha": "lib/Cowptcha.pm"
+    },
+    "license" : "http://www.perlfoundation.org/artistic_license_2_0",
+    "source-url": "git://github.com/bbkr/cowptcha.git"
+}
