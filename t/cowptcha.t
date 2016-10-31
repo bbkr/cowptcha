@@ -6,3 +6,4 @@ use Cowptcha;
 plan 6;
 
 
+Cowptcha.new.foo;
